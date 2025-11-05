@@ -1,0 +1,9 @@
+# Data, results, and checkpoints
+data/
+results/
+checkpoints/
+fid_real_images/
+
+# Logging and environment files
+wandb/
+__pycache__/
