@@ -1,6 +1,6 @@
 # Galaxy Diffusion Models
 
-This repository contains the code and notebooks for training a diffusion model on cosmological galaxy data. The primary goal is to generate realistic galaxy images based on the Flamingo dataset.
+This repository contains the code and notebooks for training a diffusion model on cosmological galaxy data. The primary goal is to generate realistic galaxy images based on the Flamingo dataset, and subsequently analyze the generated data using forward-backward denoising experiments a la https://arxiv.org/abs/2410.13770
 
 ## Quickstart
 
